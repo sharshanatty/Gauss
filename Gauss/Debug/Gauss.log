@@ -1,0 +1,3 @@
+﻿  Gauss.cpp
+C:\Users\shars\source\repos\Gauss\Gauss\Gauss.cpp(70,20): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  Gauss.vcxproj -> C:\Users\shars\source\repos\Gauss\Debug\Gauss.exe
